@@ -1,5 +1,5 @@
 
-# 🌱 Crop Recommendation System
+# 🌱 CROP - An intelligent farming system
 
 A Machine Learning-based Crop Recommendation System that recommends the most suitable crop based on soil and environmental conditions.
 
